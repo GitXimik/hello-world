@@ -1,3 +1,3 @@
 # hello-world
 tradition
-Trying to get familiar fir github
+Trying to get familiar with github
